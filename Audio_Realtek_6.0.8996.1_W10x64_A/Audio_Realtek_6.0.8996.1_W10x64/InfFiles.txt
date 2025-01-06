@@ -1,5 +1,0 @@
-Win64\Realtek\ExtRtk_8996.1\HDX_AcerExt_RTK.inf
-Win64\HDXHAPAcerNB.inf
-Win64\Realtek\RealtekAPO_799\RealtekAPO.inf
-Win64\Realtek\RealtekHSA_226\RealtekHSA.inf
-Win64\Realtek\RealtekService_279\RealtekService.inf
